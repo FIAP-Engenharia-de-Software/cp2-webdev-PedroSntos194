@@ -10,6 +10,8 @@
 // - Executar a operação correta e retornar o resultado;
 
 function calcular(num1, num2, operador) {
+  let num1 = 1
+  let num2 = 2 
   // TODO: implementar função
 }
 

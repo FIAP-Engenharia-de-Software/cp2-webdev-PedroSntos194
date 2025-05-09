@@ -13,7 +13,7 @@
 // **Fórmula IMC**: peso / (altura * altura)
 
 function calcularIMC(peso, altura) {
-  // TODO: implementar função
+  let 
 }
 
 // NÃO REMOVA O CÓDIGO ABAIXO
