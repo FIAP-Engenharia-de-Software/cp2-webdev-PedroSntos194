@@ -9,7 +9,7 @@
 // - Retorna `"Nota inválida"` se for um valor fora de 0 a 10 ou não numérico.
 
 function classificarNota(nota) {
-  // TODO: implementar função
+  let calcular = nota 
 }
 
 //NÃO REMOVA O CÓDIGO ABAIXO
